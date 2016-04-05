@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository. It is created following the hello-world githum guide.
+
+The same thing we do every night, Pinky - try to take over the world!
